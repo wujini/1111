@@ -28,4 +28,37 @@ crowdsourcing群眾外包
 運用Internet和眾人的智慧，共同完成某項計畫或解決某個問題
 發起人先在Internet上公開呼籲，而有興趣參與的人就會響應
 crowdfunding群眾集資
-眾人在Internet
+眾人在Internet集結，共同提供資金支持
+
+metadata中繼資料
+用來描述其他資料的資料
+描述一個檔案的特徵的系統資料
+
+CMS(Content Management System)內容管理系統
+讓一群使用者共同維護和發行各種內容的軟體
+常用在網路上
+
+DDos(distributed denial-of-service attack)分散式阻斷服務攻擊
+針對伺服器傳送給他無法負荷的龐大網路流量
+通常會伴隨Botnet（殭屍網路）進行
+
+Botnet殭屍網路
+受害電腦一旦被植入可遠端操控該電腦的惡意程式
+被控制的裝置稱作殭屍(zombie)
+
+RWD(Responsive web design)
+會根據顯示螢幕尺寸自動調整內容版面
+網站一次設計，全部適用
+
+SEO(Search Engine Optimization)搜尋引擎最佳化
+能讓搜尋引擎共容易找到自己的網站或建立索引
+透過了解搜尋引擎的運作規則來調整網站
+
+communication protocol
+要使網路上所有自主性電腦能互相通訊，那就必須協議出大家都能接受的通訊方法，這個由大家協議出來的通訊方法
+
+Why Layering
+1.降低複雜的程度，使得程式更容易修改，加快產品的研發速度
+2.分層負責，每層都有屬於自己的工作
+3.提供網路標準
+4.易於理解整體架構
